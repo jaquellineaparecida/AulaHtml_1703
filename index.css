@@ -1,0 +1,24 @@
+.container {
+    width: 20em;
+    height: 20em;
+}
+
+.img {
+    height: 10em;
+    width: 10em;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.butao {
+    border-radius: 5em;
+}
